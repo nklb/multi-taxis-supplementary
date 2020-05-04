@@ -7,7 +7,7 @@ by
 
 Video files for Experiments [2 (dynamic phenotypic switch rates)](Experiment-2---Dynamic-phenotypic-switch-rates.mp4?raw=true), [3 (acidity driven migration)](Experiment-3---Acidity-driven-migration.mp4?raw=true), and [5 (ECM remodeling by the cancer cells)](Experiment-5---ECM-remodeling-by-the-cancer-cells.mp4?raw=true) are included. 
 
-Use the links above or clone the repository (you will need git-lfs) to download them. Or simply see them below.
+Use the links above or clone the repository (you will need git-lfs) to download them. Or simply watch the videos below.
 
 #### Experiment 2 (dynamic phenotypic switch rates)
 
